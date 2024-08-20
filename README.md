@@ -41,3 +41,6 @@ Once connected, the ESP32 will start simulating mouse movements and scrolling ba
 # Adjustments:
 You may need to tweak the sensitivity of the gyroscope readings and the mapping values to match your preferred movement speed and scroll sensitivity.
 Additional calibration may be required to ensure the device works correctly with your specific setup.
+
+# Contribute
+This basic setup should allow you to simulate mouse movements and scrolling based on hand tilt using the MPU6050 sensor and ESP32 over Bluetooth. Let me know if you need further customization or have any questions!
